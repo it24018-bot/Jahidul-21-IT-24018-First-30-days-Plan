@@ -93,3 +93,14 @@ Date : 26 - 04 - 2026
 Topic : Java Collection Framework
 
 Video Link : https://www.youtube.com/watch?v=TDHaeHAlPFg\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=10
+
+
+
+
+Day #09
+
+Date : 27 - 04 - 2026
+
+Topic : Lists : ArrayList & Linked List
+
+Video Link : https://www.youtube.com/watch?v=q-5D9Z9BCVI\\\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\\\&index=11

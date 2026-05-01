@@ -50,3 +50,14 @@ Date : 22 - 04 - 2026
 Topic : Inheritance In Java
 
 Video Link : https://www.youtube.com/watch?v=j\\\_VA2Rp6jM0\\\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\\\&index=6
+
+
+
+
+Day-5
+
+Date : 23 - 04 - 2026
+
+Topic : Polymorphism
+
+Video Link : https://www.youtube.com/watch?v=bLke13zY4rg\\\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\\\&index=7

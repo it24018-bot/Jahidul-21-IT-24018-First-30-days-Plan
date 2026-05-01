@@ -72,3 +72,13 @@ Date : 24 - 04 - 2026
 Topic : Abstraction
 
 Video Link : https://www.youtube.com/watch?v=1SXyi3DK-88\\\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\\\&index=8
+
+
+
+Day #07
+
+Date : 25 - 04 - 2026
+
+Topic : Inner Classes In Java
+
+Video Link : https://www.youtube.com/watch?v=lsJ9QjJPbx8\\\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\\\&index=9

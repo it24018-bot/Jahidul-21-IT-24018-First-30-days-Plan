@@ -8,8 +8,6 @@ Task Name-creating Class and object
 
 Vedio link- https://youtu.be/lWFzm8qIR1c?si=H5U8v8RDIWxkBxzG
 
-Github link-https://github.com/it24018-bot/Jahidul-21-IT-24018-First-30-days-Plan.git
-
 
 
 

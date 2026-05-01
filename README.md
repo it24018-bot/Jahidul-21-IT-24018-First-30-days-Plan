@@ -82,3 +82,14 @@ Date : 25 - 04 - 2026
 Topic : Inner Classes In Java
 
 Video Link : https://www.youtube.com/watch?v=lsJ9QjJPbx8\\\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\\\&index=9
+
+
+
+
+Day #08
+
+Date : 26 - 04 - 2026
+
+Topic : Java Collection Framework
+
+Video Link : https://www.youtube.com/watch?v=TDHaeHAlPFg\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\&index=10

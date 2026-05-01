@@ -61,3 +61,14 @@ Date : 23 - 04 - 2026
 Topic : Polymorphism
 
 Video Link : https://www.youtube.com/watch?v=bLke13zY4rg\\\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\\\&index=7
+
+
+
+
+Day-6
+
+Date : 24 - 04 - 2026
+
+Topic : Abstraction
+
+Video Link : https://www.youtube.com/watch?v=1SXyi3DK-88\\\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\\\&index=8

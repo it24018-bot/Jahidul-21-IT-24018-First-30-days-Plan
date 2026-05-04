@@ -10,6 +10,7 @@ Vedio link- https://youtu.be/lWFzm8qIR1c?si=H5U8v8RDIWxkBxzG
 Example 1
 
 public class Car {
+
     String color;
     String model;
     int year;
@@ -20,11 +21,16 @@ public class Car {
     }
 }
 public class Main{
+
     public static void main(String[] args){
   Car myCar=new Car();
+  
   myCar.color="Black";
+  
   myCar.model="Toyota";
+  
   myCar.year=2025;
+  
   myCar.displayInfo();
     }
 }
@@ -32,6 +38,7 @@ public class Main{
 Example 2
 
 public class Student{
+
     String name;
     int Roll;
     String district;
@@ -125,6 +132,7 @@ class Student {
 }
 
 public class SchoolSystem {
+
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.setStudentId("ICT-101");
@@ -312,36 +320,42 @@ Video Link : https://www.youtube.com/watch?v=bLke13zY4rg\\\&list=PLSGubLIO9kuDMr
 Example 1
 
 class Animal {
+
     void sound() {
         System.out.println("Animal makes a sound");
     }
 }
 
 class Dog extends Animal {
+
     void sound() {
         System.out.println("Dog barks");
     }
 }
 
 public class Main {
+
     public static void main(String[] args) {
         Animal a = new Dog();         a.sound();             
 }
 
 Example 2
 class Vehicle {
+
     void move() {
         System.out.println("Vehicle moves");
     }
 }
 
 class Car extends Vehicle {
+
     void move() {
         System.out.println("Car drives");
     }
 }
 
 public class Main {
+
     public static void main(String[] args) {
         Vehicle v = new Car();  // parent reference, child object
         v.move();               // calls Car's method
@@ -360,6 +374,7 @@ Video Link : https://www.youtube.com/watch?v=1SXyi3DK-88\\\&list=PLSGubLIO9kuDMr
 
 Example 1
 abstract class Animal {
+
     abstract void sound();
 
     void sleep() {
@@ -367,13 +382,16 @@ abstract class Animal {
     }
 }
 
+
 class Cat extends Animal {
+
     void sound() {
         System.out.println("Cat meows");
     }
 }
 
 public class Main {
+
     public static void main(String[] args) {
         Animal a = new Cat();
         a.sound();
@@ -383,16 +401,19 @@ public class Main {
 
 Example 2
 interface Shape {
+
     void draw();
 }
 
 class Circle implements Shape {
+
     public void draw() {
         System.out.println("Drawing Circle");
     }
 }
 
 public class Main {
+
     public static void main(String[] args) {
         Shape s = new Circle();
         s.draw();
@@ -422,6 +443,7 @@ class Outer {
 }
 
 public class Main {
+
     public static void main(String[] args) {
         Outer o = new Outer();
         Outer.Inner i = o.new Inner();
@@ -440,6 +462,7 @@ public class Main {
 }
 
 public class Main {
+
     public static void main(String[] args) {
         Outer.Inner i = new Outer.Inner();
         i.show();
@@ -483,6 +506,7 @@ Example 2
 import java.util.HashMap;
 
 public class Example2 {
+
     public static void main(String[] args) {
         HashMap<Integer, String> map = new HashMap<>();
         map.put(1, "Cow");
@@ -511,6 +535,7 @@ Example 1
 import java.util.ArrayList;
 
 public class Example1 {
+
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(10);
@@ -529,6 +554,7 @@ example2
 import java.util.LinkedList;
 
 public class Example2 {
+
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<>();
         list.add("A");
@@ -558,6 +584,7 @@ Example 1
 import java.util.HashSet;
 
 public class Example1 {
+
     public static void main(String[] args) {
         HashSet<Integer> set = new HashSet<>();
         set.add(5);
@@ -574,6 +601,7 @@ Example 2
 mport java.util.TreeSet;
 
 public class Example2 {
+
     public static void main(String[] args) {
         TreeSet<String> set = new TreeSet<>();
         set.add("Banana");
@@ -600,6 +628,7 @@ import java.util.Queue;
 import java.util.LinkedList;
 
 public class Example1 {
+
     public static void main(String[] args) {
         Queue<Integer> q = new LinkedList<>();
         q.add(10);
@@ -619,6 +648,7 @@ import java.util.Queue;
 import java.util.PriorityQueue;
 
 public class Example2 {
+
     public static void main(String[] args) {
         Queue<String> q = new PriorityQueue<>();
         q.add("Banana");
@@ -646,6 +676,7 @@ Exaple 1
 import java.util.TreeMap;
 
 public class Example2 {
+
     public static void main(String[] args) {
         TreeMap<String, Integer> map = new TreeMap<>();
         map.put("Banana", 2);
@@ -662,6 +693,7 @@ Example 2
 import java.util.HashMap;
 
 public class Example1 {
+
     public static void main(String[] args) {
         HashMap<Integer, String> map = new HashMap<>();
         map.put(1, "A");

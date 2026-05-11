@@ -771,6 +771,12 @@ Video Link : https://www.youtube.com/watch?v=NIxcCzJOj3c\\\&list=PLSGubLIO9kuDMr
 Day #16
 
 
+ay #18
+
+Date : 06 - 05 - 2026
+
+Video Link : https://www.youtube.com/watch?v=rs1WKrln-9U\\\&list=PLSGubLIO9kuDMrAqU8bVQx4Zv-E-6AEnj\\\&index=20
+
 
 
 
